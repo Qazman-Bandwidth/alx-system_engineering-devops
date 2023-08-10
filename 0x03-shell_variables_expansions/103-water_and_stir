@@ -1,0 +1,5 @@
+#!/bin/bash
+A = $(($water#$WATER))
+B = $(($stir#$STIR))
+C = $(($A+$B))
+D = $(($bestchol#$C))
